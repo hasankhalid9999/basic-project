@@ -1,0 +1,41 @@
+.header marquee{
+	font-size: 25px;
+	color:#fff;
+
+
+}
+
+.body marquee{
+	font-size: 50px;
+	color:#000;
+	text-align: rigt;
+	padding-top: 100px;
+
+
+}
+
+
+.nav li{
+
+	display: inline;
+	padding: 0px;
+	margin-left: 30px;
+	border: 2px solid #fff;
+	font-size: 20px;
+	
+}
+
+.nav a:hover{
+	color:red;
+
+
+}
+
+.signinform{
+	width: 100%;
+	height: 700px;
+	text-align: center;
+
+      
+}
+        

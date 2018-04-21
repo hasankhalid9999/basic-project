@@ -1,0 +1,101 @@
+
+.header{
+	border:1px solid #000; 
+	background-color: #006; 
+	height: 100px;
+	width: 100%;
+}
+.header marquee{
+	font-size: 25px;
+	color:#fff;
+
+
+}
+
+#logo{
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 50px;
+}
+
+.body marquee{
+	font-size: 50px;
+	color:#000;
+	text-align: rigt;
+	padding-top: 100px;
+
+
+}
+
+.nav ul{
+
+	background-color: #000;
+	margin: 0px;
+	height: 26px;
+	width: 100%;
+	padding: 2px;
+
+
+}
+.nav ul li{
+
+	color:#fff;
+	padding: 10px;
+	display: inline;
+}
+
+.nav ul a{
+
+	color:#fff;
+}
+
+.nav a:hover{
+	color:#000;
+
+
+}
+
+.body table{
+	text-align: center;
+	padding-left: 500px;
+	padding-right: 500px;
+
+
+	
+
+
+}
+
+.body td{
+
+	border:1px solid #f22;
+	color: #000;
+	padding-left:30px;
+	padding-right: 15px;
+
+}
+
+
+.body th{
+	background-color: #000;
+	color:#fff;
+
+
+}
+
+.abbody img{
+	height: 240px;
+	width: 240px;
+
+
+}
+.foter{
+
+height:40px;
+background:black;
+clear:both;
+color:white;
+padding-bottom: 10px;
+text-align:center;
+border:1px solid red;
+}
